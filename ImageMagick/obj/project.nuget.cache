@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "EN3sxRboOmlbtSLQNPACCIsliVW875Fl+5rIBEe8BFPmmngKQbiNRoisz7jpIjtItM3TFXBZul+93Fb4H99tNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GreenZone\\Desktop\\ImageMagick\\ImageMagick\\ImageMagick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GreenZone\\.nuget\\packages\\magick.net-q16-anycpu\\8.2.1\\magick.net-q16-anycpu.8.2.1.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\magick.net.core\\8.2.1\\magick.net.core.8.2.1.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\GreenZone\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
